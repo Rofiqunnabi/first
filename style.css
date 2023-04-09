@@ -1,0 +1,36 @@
+
+*{
+   margin: 0px; 
+   padding: 0%;
+}
+
+
+.content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 90px;
+
+}
+.con{
+    padding: 12px 25px;
+    margin-top: 10px;
+    font-size: 16px;
+    color: bisque;
+    background-color: coral;
+    border-radius: 9px;
+    border: none;
+   
+}
+.nd{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 120px;
+}
+/* .opp{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+} */
